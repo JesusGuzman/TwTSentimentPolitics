@@ -3,7 +3,6 @@ import sys
 import time
 import json
 import io
-import test
 from functools import partial
 from urllib2 import URLError
 from httplib import BadStatusLine
